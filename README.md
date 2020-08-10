@@ -9,7 +9,4 @@
 - Bug / Feature Request
 - Future scope of project
 ## Demo
-Link:- 
-<p align="center">
-  <img width="1000" height="800" src="https://flight-price-prediction-api.herokuapp.com/predict">
-</p>  
+Link:- https://flight-price-app.herokuapp.com
