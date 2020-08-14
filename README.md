@@ -22,5 +22,5 @@ pip install -r requirements.txt
 ## Deployement On Heroku
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
 
-https://www.google.com/imgresimgurl=https%3A%2F%2Fdevelopers.worksmobile.com%2Fdocument%2Fimage%2F147_EN%2F306&imgrefurl=https%3A%2F%2Fdevelopers.worksmobile.com%2Fjp%2Fdocument%2F1005070202&tbnid=T6TbpJTxZe5kHM&vet=10CC8QMyhuahcKEwjQxZu_gZvrAhUAAAAAHQAAAAAQBQ..i&docid=9bO5JPyvGRCoKM&w=1125&h=468&q=heroku%20dashboard%20&ved=0CC8QMyhuahcKEwjQxZu_gZvrAhUAAAAAHQAAAAAQBQ
+![images](https://user-images.githubusercontent.com/62636740/90267797-ab9cb280-de73-11ea-8b95-a52aeb763d71.jpg)
 
