@@ -29,6 +29,7 @@ Login or signup in order to create virtual app. You can either connect your gith
 
 ![images](https://user-images.githubusercontent.com/62636740/90267797-ab9cb280-de73-11ea-8b95-a52aeb763d71.jpg)
 
+Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
 ## Technologies used
 
